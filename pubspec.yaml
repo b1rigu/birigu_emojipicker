@@ -1,7 +1,7 @@
 name: birigu_emojipicker
 description: pick emojis using custom picker.
 version: 0.0.1
-homepage: null
+homepage: https://github.com/b1rigu/birigu_emojipicker
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
